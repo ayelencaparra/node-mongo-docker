@@ -11,3 +11,7 @@ Luego abrí el navegador en:
 http://localhost:8080
 
 y Deberia estar funcionando
+
+Links de docker:
+https://hub.docker.com/repository/docker/ayelencaparra/backend-backend/general
+https://hub.docker.com/repository/docker/ayelencaparra/miwebapp/general
